@@ -8,7 +8,7 @@ def fizzbuzz(argument)
   else if argument / 5 == TRUE
     return "Buzz"
     
-  if argument / 3 == TRUE && argument / 5 == TRUE
+  else if argument / 3 == TRUE && argument / 5 == TRUE
     return "FizzBuzz"
 
   else
