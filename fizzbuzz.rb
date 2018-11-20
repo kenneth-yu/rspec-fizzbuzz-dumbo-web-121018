@@ -12,5 +12,5 @@ def fizzbuzz(argument)
     return "FizzBuzz"
 
   else
-  return nil
+    return nil
 end
